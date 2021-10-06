@@ -1,7 +1,7 @@
 # Krasnitskaya Ekaterina 
 ##### 05.12.1984
+![Foto](foto.jpg =100x)
 ### +375445742018 (Viber, WhatsApp, Telegram)
-![Foto](foto.jpg)
 ***
 ## **Languages** 
 * English A2
@@ -19,6 +19,6 @@
     * Master of Psychology
 ***
 ## **Experience**
-* Since 2016 Business trainer for own proekt ([more informatior] (https://agentam.by/) )
-* More then ten years top manager, privet sektor (real estate agency, insurance).
+* Since 2016 Business trainer for own proekt [more information](https://agentam.by/) 
+* More then ten years top manager, private sektor (real estate agency, insurance).
 ***
