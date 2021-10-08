@@ -11,7 +11,7 @@
 * HTML
 * CSS
 ## **Education**
-* 2021 IT-Academy Educational Center for Programming and High Tech. 
+* 2021 IT-Academy Educational Center for Programming and High Tech 
     * Website Development with HTML CSS & Javascript
 * 2015 MBA
     * Management without theory and figures
@@ -20,5 +20,5 @@
 ***
 ## **Experience**
 * Since 2016 Business trainer of own proekt [more information](https://agentam.by/) 
-* More then ten years top manager, private sektor (real estate agency, insurance).
+* More then ten years top manager, private sektor (real estate agency, insurance)
 ***
